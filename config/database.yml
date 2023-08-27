@@ -2,8 +2,9 @@ default: &default
   adapter: mysql2
   pool: 5
   username: root
-  password: 
-  port: <%= ENV['MYSQL_PORT'] || 3306 %>
+  password: 123456
+  host: a54489o505.goho.co 
+  port: 43270
 
 test:
   <<: *default
