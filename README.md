@@ -1,2 +1,2 @@
-# greentest
+# GreenTest
 # GreenFood
