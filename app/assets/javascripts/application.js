@@ -20,13 +20,5 @@
 //= require highcharts
 //= require bootstrap
 //= require plugins/bootstrap-toggle
-//= require chartkick
 //= require plugins/parsley
-//= require js.cookie
-//= require jstz
-//= require browser_timezone_rails/set_time_zone
-//= require codemirror
-//= require codemirror/modes/shell
-//= require moment
-//= require bootstrap-datetimepicker
 //= require_tree .
